@@ -17,11 +17,14 @@
 
 - 📷 **[scan_snap](https://pub.dev/packages/scan_snap)** – High-performance Flutter QR/barcode scanner plugin. CameraX on Android, AVFoundation on iOS, with Huawei HMS support and full Swift Package Manager compatibility. Published on pub.dev.
 - 🔍 **[Satori](https://marketplace.visualstudio.com/items?itemName=gearscrafter.satori)** – VS Code extension for interactive architecture visualization of Flutter/Dart projects. Achieve sudden enlightenment of your code structure.
+- 🎮 **[Atlas Code](https://github.com/gearscrafter/atlas_code)** – VR Code Editor for spatial computing. 
+A fully-featured VR code editor bringing professional IDE features to Meta Quest devices. Built with OpenXR 1.0 for cross-platform XR support.
 
 ## What I'm Working On
 
 - **Shipping Flutter plugins** – Building native-bridge packages with platform channels, Swift on iOS and Kotlin on Android
 - **Developer tooling** – VS Code extensions that make Flutter architecture visible and easier to reason about
+- **Spatial Computing** – Pushing VR development beyond entertainment into productivity (Atlas Code is phase one)
 
 ## Satori Highlights
 
